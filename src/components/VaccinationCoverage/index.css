@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.vaccin-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.vaccin-heading {
+  color: #2cc6c6;
+  font-size: 20px;
+  align-self: flex-start;
+  margin-bottom: 20px;
+}
